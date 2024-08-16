@@ -1,4 +1,4 @@
-# media_booster
+# MediaBooster
 
 
 # About
